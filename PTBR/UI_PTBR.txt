@@ -864,6 +864,10 @@ UI_PTBR = {
     UI_NewGame_Sandbox = "Modo Sandbox",
     UI_NewGame_Sandbox_desc = "Personalize cada aspecto do apocalipse zumbi. Morra como achar melhor...",
     UI_NewGame_Sandbox_desc2 = "Customize a dificuldade e o modo de jogo",
+    UI_News_Anim3 = "<H1> Bem Vindo a Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Para a melhor experiência no momento em que estiver jogando multijogador, você é FORTEMENTE aconselhado a jogar em servidores permitidos ou no modo cooperativo Steam. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Embora o multijogador seja amplamente melhorado em relação ao Build 40, continuamos a aperfeiçoar e consertar. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Por favor, seja compreensivo enquanto melhoramos, consertamos e polimos. <LINE><LINE> ",
     UI_NewGame_Scenarios = "Cenários",
     UI_NewGame_SelectDifficulty = "Favor escolha um nível de dificuldade para iniciar.",
     UI_NewGame_SixMonths = "Seis meses depois",
